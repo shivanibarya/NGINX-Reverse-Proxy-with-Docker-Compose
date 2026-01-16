@@ -28,11 +28,13 @@ project-root/
 │
 ├── mobile/
 
+
 │   ├── Dockerfile
 
 │   └── index.html
 │
 ├── nginx/
+
 
 │   ├── Dockerfile
 
