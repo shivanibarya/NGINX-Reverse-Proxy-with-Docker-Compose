@@ -17,18 +17,25 @@ GitHub account with project source code
 Basic knowledge of Docker, Docker Compose, and NGINX
 
 2. Project Structure
+   
 project-root/
 │
 ├── bank/
+
 │   ├── Dockerfile
+
 │   └── index.html
 │
 ├── mobile/
+
 │   ├── Dockerfile
+
 │   └── index.html
 │
 ├── nginx/
+
 │   ├── Dockerfile
+
 │   └── nginx.conf
 │
 └── docker-compose.yml
