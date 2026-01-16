@@ -20,6 +20,7 @@ Basic knowledge of Docker, Docker Compose, and NGINX
    
 project-root/
 │
+
 ├── bank/
 
 │   ├── Dockerfile
