@@ -23,19 +23,16 @@ project-root/
 ├── bank/
 
 │   ├── Dockerfile
-
 │   └── index.html
 │
 ├── mobile/
 
 │   ├── Dockerfile
-
 │   └── index.html
 │
 ├── nginx/
 
 │   ├── Dockerfile
-
 │   └── nginx.conf
 │
 └── docker-compose.yml
