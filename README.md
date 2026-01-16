@@ -26,6 +26,7 @@ project-root/
 
 │   └── index.html
 │
+
 ├── mobile/
 
 
@@ -33,6 +34,7 @@ project-root/
 
 │   └── index.html
 │
+
 ├── nginx/
 
 
@@ -40,6 +42,7 @@ project-root/
 
 │   └── nginx.conf
 │
+
 └── docker-compose.yml
 
 bank/ → Bank app static HTML
